@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.toc
+*.pyz
+*.pkg
+*.spec
+base_library.zip
+warn-*.txt
+xref-*.html
+*.exe
